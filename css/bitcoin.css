@@ -1,0 +1,41 @@
+.bitcoingraph {
+	background-color: #222222;
+	padding: 20px;
+	color:#fff;
+}
+.bitcoin-title {
+	letter-spacing: 1px;
+	font-size: 22px;
+	font-weight: 100;
+	color: #F4E400;
+	padding-bottom: 5px;
+	font-weight: 500;
+	margin: 0px;
+}
+.bitcoin-change {
+	padding-bottom: 15px;
+	font-size: 18px;
+	font-weight: 600;
+}
+.change-positive {
+	color: #06b70a;
+}
+.change-negative {
+	color: red;
+}
+.price {
+	padding-bottom: 25px;
+	font-size: 37px;
+	font-weight: 600;
+}
+.year-data {
+	padding-bottom: 12px;	
+}
+.years {
+	padding-bottom: 4px;
+	font-size: 19px;
+}
+#myChart {
+	margin-top: 11px;
+	padding-bottom: 5px;
+}
